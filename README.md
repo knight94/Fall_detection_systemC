@@ -9,7 +9,10 @@ OpenCV library and SystemC library
 ![](Output_figs/Back48.png)
 
 # Person extraction
-![](Output_figs/person48.png)
+![](Output_figs/person47.png)
+- After falling
+![](Output_figs/fall-05-cam0-d-0130.png)
+![](Output_figs/person131.png)
 
 # Result plot for centroid distance in 3D space, only Y coordinate and bounding box ratio
 ![](Output_figs/plotdist.png)
