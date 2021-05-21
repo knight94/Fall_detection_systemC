@@ -1,5 +1,6 @@
 # Fall_detection_systemC
 SystemC modelling of fall detection given in http://fenix.univ.rzeszow.pl/~mkepski/ds/uf.html
+Work is done by Naman Jain (IIT Delhi) as part of COL 812: System level design and modeling Semester II (2020-21)
 
 # Dependencies
 OpenCV library and SystemC library
